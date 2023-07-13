@@ -17,8 +17,8 @@
 		"issues": "https://github.com/kdyby/curl/issues"
 	},
 	"require": {
-		"nette/http": "~2.2@dev",
-		"nette/utils": "~2.2@dev",
+		"nette/http": "*",
+		"nette/utils": "*",
 
 		"ext-curl": "*"
 	},
